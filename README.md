@@ -10,7 +10,7 @@ Python is used for conducting out this analysis here ,because of its extensive d
 -Comparing the cost of acquisition across various channels and determining which ones are the most and least profitable.
 -Determining which channels are most and least effective at converting customers.
 -Calculating the total revenue by channel and analysing the most and least profitable channels in terms of generating revenue.
--And lastly calculating the return of investment(ROI) for each channel![image](https://github.com/Nirala-Garima/Project-Customer-Lifetime-Value-Analysis/assets/147384166/9535dd25-39f3-462e-a23c-179f01c1908d)
+-And lastly calculating the return of investment(ROI) for each channel.
 
 # Conclusion and findings:-
 our analysis of various key performance indicators across different marketing channels has provided valuable insights for businesses aiming to optimize their customer acquisition and revenue generation strategies. Here are the key findings and recommendations:
